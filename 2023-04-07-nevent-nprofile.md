@@ -1,4 +1,4 @@
----
+Update 2023-04-07-nevent-nprofile.md---
 layout: post
 title:  Output nevent and nprofile codes with relay hints, add relay hints to tags
 date:   2023-04-07 21:19:00 -0300
@@ -28,6 +28,7 @@ I may have forgotten some, but this bounty applies to all major open-source clie
  - Satellite (when open-source)
  - Camelus
  - Primal
+ - Nostrmo
 
 For other clients please ask first, or suggest adding here with a PR.
 
